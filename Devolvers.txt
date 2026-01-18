@@ -1,2 +1,2 @@
-ScriptServer/Schild_Generator.bat (Schild Generator)
-ScriptServer/Herunterfahr_Spiel/Herunterfahr_Spiel.7z.001&Herunterfahr_Spiel.7z.002  // (Herunterfahr Spiel)
+Schild_Generator.bat (Schild Generator)
+Herunterfahr_Spiel/Herunterfahr_Spiel.7z.001&Herunterfahr_Spiel.7z.002  // (Herunterfahr Spiel)
