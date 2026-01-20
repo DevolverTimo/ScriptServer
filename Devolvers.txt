@@ -1,2 +1,2 @@
 Schild_Generator.bat (Schild Generator)
-Herunterfahr_Spiel/Herunterfahr_Spiel.7z.001&Herunterfahr_Spiel.7z.002  // (Herunterfahr Spiel)
+Herunterfahr_Spiel/Herunterfahr_Spiel_001.7z&Herunterfahr_Spiel_002.7z  // (Herunterfahr Spiel)
