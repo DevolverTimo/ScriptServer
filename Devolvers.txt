@@ -1,2 +1,3 @@
-Schild_Generator.bat (Schild Generator)
-Herunterfahr_Spiel/Herunterfahr_Spiel_001.7z Herunterfahr_Spiel_002.7z (Herunterfahr Spiel)
+https://github.com/DevolverTimo/ScriptServer/raw/refs/heads/main/Schild_Generator.bat (Schild Generator)
+(Herunterfahr Spiel)
+
