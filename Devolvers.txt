@@ -1,3 +1,2 @@
 https://github.com/DevolverTimo/ScriptServer/raw/refs/heads/main/Schild_Generator.bat (Schild Generator)
-https://github.com/DevolverTimo/ScriptServer/raw/refs/heads/main/Herunterfahr_Spiel/Herunterfahr%20Spiel_001.7z https://github.com/DevolverTimo/ScriptServer/raw/refs/heads/main/Herunterfahr_Spiel/Herunterfahr%20Spiel_002.7z (Herunterfahr Spiel)
-
+https://github.com/DevolverTimo/ScriptServer/raw/refs/heads/main/Herunterfahr_Spiel/Herunterfahr%20Spiel_001.7z https://github.com/DevolverTimo/ScriptServer/raw/refs/heads/main/Herunterfahr_Spiel/Herunterfahr%20Spiel_002.7z (Herunterfahr Spiel) [start.bat]
